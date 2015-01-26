@@ -1,0 +1,13 @@
+MIDS - SRD - Getting Started Assignment
+Leanne Bradley
+
+How long did it take to run the process for each of these?
+- Locally: 100 s
+- EMR: 298.0 s (not counting time spent waiting for the EC2 instances)
+
+How many address tags are there in the input?
+local: 2955 + 2185 = 5140
+EMR: 1767 + 1686 + 1687 = 5140
+
+Does the local version and EMR version give the same answer?
+Yes, it does.
